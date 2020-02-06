@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "www.kevinchau.com"
 languageCode = "en-us"
 title = "Kevin Chau"
 theme = "mediumish-gohugo-theme"
