@@ -10,7 +10,7 @@ publishDir = "publish"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
 [params]
-  logo = "/images/logo.jpg"
+  logo = "/images/logo.png"
   description ="aka KCHAU"
   #mailchimp = "you can provide a mailchimp-link here"
 
