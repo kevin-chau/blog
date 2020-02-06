@@ -1,6 +1,6 @@
-baseURL = "https://lgaida.github.io/mediumish-gohugo-theme-demo/"
+baseURL = "https://www.kevinchau.com/"
 languageCode = "en-us"
-title = "Mediumish"
+title = "Kevin Chau"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "John Doe - All rights reserved"
@@ -11,7 +11,7 @@ publishDir = "docs"
 
 [params]
   logo = "/images/logo.png"
-  description ="the clean blog!"
+  description ="KCHAU's Blog!"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
@@ -43,11 +43,6 @@ Currently trying to get this blog running, still don't know what the blog will b
     weight = 100
     identifier = "blog"
     url = "/blog"
-[[menu.main]]
-    name = "Separate"
-    weight = 100
-    identifier = "separate"
-    url = "/separate"
 [[menu.main]]
     name = "About Me"
     identifier = "about"
