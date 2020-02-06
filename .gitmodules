@@ -1,3 +1,6 @@
 [submodule "themes/mediumish"]
 	path = themes/mediumish
 	url = https://github.com/kevin-chau/mediumish-gohugo-theme.git
+[submodule "themes/mediumish-gohugo-theme"]
+	path = themes/mediumish-gohugo-theme
+	url = https://github.com/kevin-chau/mediumish-gohugo-theme.git
